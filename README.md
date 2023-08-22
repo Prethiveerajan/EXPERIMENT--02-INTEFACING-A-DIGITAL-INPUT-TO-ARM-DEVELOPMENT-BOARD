@@ -145,7 +145,10 @@ void Error_Handler(void)
 
 
 ## Output  :
- 
+![WhatsApp Image 2023-08-22 at 19 08 36](https://github.com/Prethiveerajan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/94233064/c8364c96-c8b7-43c8-a20e-95549ed6dfda)
+
+ ![WhatsApp Image 2023-08-22 at 19 08 36](https://github.com/Prethiveerajan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/94233064/6805298d-73a5-4815-8497-82b627576b5c)
+
  
  
  
